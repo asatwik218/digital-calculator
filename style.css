@@ -1,7 +1,7 @@
 body{
     font-family: 'Roboto', sans-serif;
     /* background-image: linear-gradient(260deg,#f57e42,#f05405,#ed2f28); */
-
+     -webkit-tap-highlight-color : transparent;
 }
 header{
     text-align: center;
@@ -44,7 +44,7 @@ header{
     justify-content: center;
     align-self: center;
     cursor: pointer;
-    -webkit-tap-highlight-color : transparent
+    -webkit-tap-highlight-color : transparent;
 }
 .numbers li{
     margin:0px;
@@ -55,7 +55,7 @@ header{
 }
 .num ,.clear{
     background-color: black;
-    color:white
+    color:white;
 }
 .fas{
     padding:10px 20px;
