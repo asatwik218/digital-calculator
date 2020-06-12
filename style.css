@@ -44,6 +44,7 @@ header{
     justify-content: center;
     align-self: center;
     cursor: pointer;
+    -webkit-tap-highlight-color : transparent
 }
 .numbers li{
     margin:0px;
